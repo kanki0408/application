@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App di supporto al turismo</string>
+    <string name="tv_winfo_title">Dettagli meteo.</string>
+    <string name="weather_information">informazioni meteo</string>
+    <string name="timeselect">Impostazione dell\'orario della riunione</string>
+    <string name="waitselect">Visualizzazione del luogo di incontro</string>
+    <string name="welcometext">Benvenuti nell\'App di supporto al turismo.</string>
+    <string name="support">Selezionare la funzione che si desidera utilizzare</string>
+    <string name="langagesetting">Riflette.</string>
+    <string name="langageset">si riflette ora nella tabella</string>
+    <string name="langage">Impostazioni della lingua</string>
+    <string name="select">selezionati.</string>
+    <string name="nowweaher">Tempo attuale</string>
+    <string name="highweather">temperatura massima</string>
+    <string name="lowweather">temperatura minima</string>
+    <string name="shop">Ristoranti consigliati.</string>
+    <string name="viewpoint">Attrazioni suggerite.</string>
+    <string name="search">"ricerca "</string>
+    <string name="weather_point">Inserire la località in cui si desidera conoscere il meteo</string>
+    <string name="time_set">Impostazione dell\'orario della riunione</string>
+    <string name="how_time">A che ora volete incontrarvi?</string>
+    <string name="hour">tempo di -</string>
+    <string name="min">minuti</string>
+    <string name="wait_point">Ricerca del luogo di incontro</string>
+    <string name="save">"stoccaggio "</string>
+    <string name="ok">Salvato in.</string>
+    <string name="placename">Inserire l\'indirizzo del luogo di incontro</string>
+    <string name="stop">Fermare</string>
+    <string name="timed">È ora di andare.</string>
+</resources>

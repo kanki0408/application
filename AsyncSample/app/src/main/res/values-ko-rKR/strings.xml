@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">날씨 정보</string>
+    <string name="tv_winfo_title">날씨 정보</string>
+    <string name="weather_information">날씨 정보</string>
+    <string name="timeselect">약속 시간 설정</string>
+    <string name="waitselect">만남의 장소 표시</string>
+    <string name="welcometext">관광 지원 앱에 오신 것을 환영합니다</string>
+    <string name="support">이용하고 싶은 기능을 선택하세요</string>
+    <string name="langagesetting">반영하다</string>
+    <string name="langageset">가 반영되었습니다</string>
+    <string name="langage">언어 설정</string>
+    <string name="select">를 선택했습니다</string>
+    <string name="nowweaher">현재 날씨</string>
+    <string name="highweather">최고 기온</string>
+    <string name="lowweather">최저기온</string>
+    <string name="shop">추천 음식점</string>
+    <string name="viewpoint">추천 관광지</string>
+    <string name="search">검색</string>
+    <string name="weather_point">날씨를 알고 싶은 장소를 입력하세요</string>
+    <string name="time_set">약속 시간 설정</string>
+    <string name="how_time">몇 시에 만나면 되나요?</string>
+    <string name="hour">시간</string>
+    <string name="min">분</string>
+    <string name="save">보존</string>
+    <string name="ok">저장됨</string>
+    <string name="wait_point">만남의 장소 검색</string>
+    <string name="placename">미팅 장소의 주소를 입력해 주세요</string>
+    <string name="stop">정지</string>
+    <string name="timed">시간입니다!</string>
+</resources>

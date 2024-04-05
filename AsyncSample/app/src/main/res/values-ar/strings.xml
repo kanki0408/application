@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق دعم السياحة الطقس</string>
+    <string name="tv_winfo_title">تفاصيل الطقس</string>
+    <string name="weather_information">معلومات الطقس</string>
+    <string name="timeselect">تحديد وقت الاجتماع</string>
+    <string name="waitselect">عرض مكان الاجتماع</string>
+    <string name="welcometext">تفسيرات وظيفية مختلفة</string>
+    <string name="support">الرجاء تحديد الوظيفة التي تريد استخدامها</string>
+    <string name="langagesetting">يعكس</string>
+    <string name="langageset">وقد انعكس</string>
+    <string name="langage">اعدادات اللغة</string>
+    <string name="select">المحدد</string>
+    <string name="nowweaher">الطقس الحالي</string>
+    <string name="highweather">أعلى درجة حرارة</string>
+    <string name="lowweather">أدنى درجة حرارة</string>
+    <string name="shop">خيارات الطعام الموصى بها</string>
+    <string name="viewpoint">خيارات الطعام الموصى بها</string>
+    <string name="search">يبحث</string>
+    <string name="weather_point">الرجاء إدخال الموقع الذيتريد معرفة الطقس فيه</string>
+    <string name="time_set">تحديد وقت الاجتماع</string>
+    <string name="how_time">اي وقت يجب ان نلتقي؟</string>
+    <string name="hour">وقت</string>
+    <string name="min">دقائق</string>
+    <string name="wait_point">البحث عن مكان الاجتماع</string>
+    <string name="save">يحفظ</string>
+    <string name="ok">حفظ</string>
+    <string name="placename">"الرجاء إدخال عنوان مكانالاجتماع "</string>
+    <string name="stop">قف</string>
+    <string name="timed">حان الوقت</string>
+</resources>

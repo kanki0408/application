@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anwendungen zur Unterstützung des Tourismus</string>
+    <string name="tv_winfo_title">Einzelheiten zum Wetter.</string>
+    <string name="weather_information">Wetterinformationen</string>
+    <string name="timeselect">Einstellung der Sitzungszeit</string>
+    <string name="waitselect">Anzeige des Treffpunkts</string>
+    <string name="welcometext">Willkommen bei der App zur Unterstützung des Tourismus.</string>
+    <string name="support">Wählen Sie die gewünschte Funktion</string>
+    <string name="langagesetting">Reflektiert.</string>
+    <string name="langageset">spiegelt sich nun in der</string>
+    <string name="langage">Spracheinstellungen</string>
+    <string name="select">ausgewählt.</string>
+    <string name="nowweaher">Aktuelles Wetter</string>
+    <string name="highweather">Höchsttemperatur</string>
+    <string name="lowweather">Mindesttemperatur</string>
+    <string name="shop">Empfohlene Restaurants</string>
+    <string name="viewpoint">Vorgeschlagene Attraktionen.</string>
+    <string name="search">"Suche "</string>
+    <string name="weather_point">Geben Sie den Ort ein, an dem Sie das Wetter erfahren möchten</string>
+    <string name="time_set">Einstellung der Sitzungszeit</string>
+    <string name="how_time">Um wie viel Uhr möchten Sie sich treffen?</string>
+    <string name="hour">Zeit von -</string>
+    <string name="min">" Protokoll"</string>
+    <string name="wait_point">Treffpunktsuche</string>
+    <string name="save">Speicherung</string>
+    <string name="ok">Gespeichert in.</string>
+    <string name="placename">Bitte geben Sie die Adresse des Treffpunkts ein</string>
+    <string name="stop">Stoppen</string>
+    <string name="timed">Zeit zu gehen.</string>
+</resources>

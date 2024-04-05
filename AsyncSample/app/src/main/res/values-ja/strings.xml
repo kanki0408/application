@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">観光支援アプリ</string>
+    <string name="tv_winfo_title">お天気詳細</string>
+    <string name="weather_information">天気情報</string>
+    <string name="timeselect">待ち合わせ時刻設定</string>
+    <string name="waitselect">待ち合わせ場所表示</string>
+    <string name="welcometext">観光支援アプリへようこそ</string>
+    <string name="support">利用したい機能を選択してください</string>
+    <string name="langagesetting">反映する</string>
+    <string name="langageset">が反映されました</string>
+    <string name="langage">言語設定</string>
+    <string name="select">を選択しました</string>
+    <string name="nowweaher">現在の天気</string>
+    <string name="highweather">最高気温</string>
+    <string name="lowweather">最低気温</string>
+    <string name="shop">おすすめの飲食店</string>
+    <string name="viewpoint">おすすめの観光スポット</string>
+    <string name="search">検索</string>
+    <string name="weather_point">天気を知りたい場所を入力してください</string>
+    <string name="time_set">待ち合わせ時間設定</string>
+    <string name="how_time">何時に待ち合わせしますか?</string>
+    <string name="hour">時</string>
+    <string name="min">分</string>
+    <string name="wait_point">待ち合わせ場所検索</string>
+    <string name="save">保存</string>
+    <string name="ok">保存されました</string>
+    <string name="placename">待ち合わせ場所の住所を入力してください</string>
+    <string name="stop">停止</string>
+    <string name="timed">時間になりました</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">旅游支持应用程序</string>
+    <string name="tv_winfo_title">天气详情</string>
+    <string name="weather_information">天气信息</string>
+    <string name="timeselect">会议时间设置</string>
+    <string name="waitselect">会议场所展示</string>
+    <string name="welcometext">欢迎使用旅游支持应用程序</string>
+    <string name="support">选择要使用的功能</string>
+    <string name="langagesetting">反映</string>
+    <string name="langageset">现在反映在</string>
+    <string name="langage">语言设置</string>
+    <string name="select">选定</string>
+    <string name="nowweaher">当前天气</string>
+    <string name="highweather">最高温度</string>
+    <string name="lowweather">最低温度</string>
+    <string name="shop">推荐餐厅</string>
+    <string name="viewpoint">推荐景点</string>
+    <string name="search">搜索</string>
+    <string name="weather_point">输入您想了解天气的位置</string>
+    <string name="time_set">会议时间设置</string>
+    <string name="how_time">您想几点见面？</string>
+    <string name="hour">时间</string>
+    <string name="min">分钟</string>
+    <string name="save">保持</string>
+    <string name="ok">保存在</string>
+    <string name="wait_point">会议地点搜索</string>
+    <string name="placename">请输入会议地点的地址</string>
+    <string name="stop">停乐停舞</string>
+    <string name="timed">该走了</string>
+</resources>

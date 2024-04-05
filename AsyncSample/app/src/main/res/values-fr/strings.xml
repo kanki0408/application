@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Applications d\'aide au tourisme</string>
+    <string name="tv_winfo_title">Détails météorologiques.</string>
+    <string name="weather_information">informations météorologiques</string>
+    <string name="timeselect">Réglage de l\'heure de la réunion</string>
+    <string name="waitselect">Affichage du lieu de réunion</string>
+    <string name="welcometext">Bienvenue sur l\'application de soutien au tourisme.</string>
+    <string name="support">Sélectionnez la fonction que vous souhaitez utiliser</string>
+    <string name="langagesetting">Reflète.</string>
+    <string name="langageset">est désormais reflétée dans le</string>
+    <string name="langage">Paramètres linguistiques</string>
+    <string name="select">sélectionné.</string>
+    <string name="nowweaher">Météo actuelle</string>
+    <string name="highweather">température maximale</string>
+    <string name="lowweather">température minimale</string>
+    <string name="shop">Restaurants recommandés.</string>
+    <string name="viewpoint">Attractions suggérées.</string>
+    <string name="search">recherche</string>
+    <string name="weather_point">Saisissez le lieu où vous souhaitez connaître le temps qu\'il fait</string>
+    <string name="time_set">Réglage de l\'heure de la réunion</string>
+    <string name="how_time">À quelle heure souhaitez-vous vous rencontrer ?</string>
+    <string name="hour">temps de -</string>
+    <string name="min">" minutes"</string>
+    <string name="wait_point">Recherche de lieux de réunion</string>
+    <string name="save">le stockage</string>
+    <string name="ok">Enregistré dans.</string>
+    <string name="placename">Veuillez indiquer l\'adresse du lieu de réunion</string>
+    <string name="stop">Arrêt</string>
+    <string name="timed">C\'est l\'heure</string>
+</resources>
